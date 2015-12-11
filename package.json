@@ -18,8 +18,9 @@
   "homepage": "https://github.com/is-it-vegan/is-it-vegan#readme",
   "dependencies": {
     "bcrypt": "^0.8.5",
-    "eat": "^0.1.1",
     "body-parser": "^1.13.3",
+    "dotenv": "^1.2.0",
+    "eat": "^0.1.1",
     "express": "^4.13.3",
     "mongoose": "^4.1.7"
   },
