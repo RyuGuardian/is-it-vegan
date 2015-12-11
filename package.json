@@ -17,19 +17,13 @@
   },
   "homepage": "https://github.com/is-it-vegan/is-it-vegan#readme",
   "dependencies": {
-    "bcrypt": "^0.8.5",
     "body-parser": "^1.13.3",
     "dotenv": "^1.2.0",
-    "eat": "^0.1.1",
     "express": "^4.13.3",
-    "mongoose": "^4.1.7"
   },
   "devDependencies": {
     "angular": "^1.4.6",
-    "angular-base64": "^2.0.5",
-    "angular-cookies": "^1.4.7",
     "angular-mocks": "^1.4.7",
-    "angular-route": "^1.4.7",
     "chai": "^3.2.0",
     "chai-http": "^1.0.0",
     "gulp": "^3.9.0",
